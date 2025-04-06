@@ -3,7 +3,7 @@ title: "Getting Started with My Blog"
 description: "Welcome to my first blog post!"
 author: "Rajesh Karra"
 date: "2025-04-06"
-catagories: ["Blog", "getting started", "Introduction"]
+categories: ["Blog", "getting started", "Introduction"]
 image: "https://picsum.photos/400/200?random=12"
 ---
 
