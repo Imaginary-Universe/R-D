@@ -3,7 +3,7 @@ from monsterui.all import *
 
 app, rt = fast_app(hdrs=Theme.slate.headers())
 
-@rt
+@rt.route("/")
 def index():
     return P("Hello, World!", style="color:blue; font-size:20px;")
 
