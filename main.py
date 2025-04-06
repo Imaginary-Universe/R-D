@@ -13,9 +13,8 @@ def BlogCard(fname):
             H3(meta["title"]), 
             P(meta["description"]),
             P(meta["author"]),
-        Div(
             P(meta["date"]),
-            P(meta["categories"]))
+            P(meta["categories"])
     )))
 @rt
 def index():
